@@ -1,2 +1,3 @@
 "hello world!"
 "This the first line of commit I entered in this project"
+" This the second line of commit I want to check for the extension I used in vs code"
