@@ -1,1 +1,2 @@
 "hello world!"
+"This the first line of commit I entered in this project"
